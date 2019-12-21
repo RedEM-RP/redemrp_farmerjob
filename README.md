@@ -20,10 +20,10 @@ Config = {}
 Config.FarmerJob = {x=1404.36,y=-1373.37,z=81.29} -- Farmer Job Position
 Config.FarmerJobSprite = 1560611276 -- Farmer Job Blip sprite
 
-Config.GatheringAnim = "WORLD_HUMAN_CROUCH_INSPECT"
-Config.FreezeWhileGather = true
-Config.SetJob = true
-Config.JobName = "farmer"
+Config.GatheringAnim = "WORLD_HUMAN_CROUCH_INSPECT" -- Scenario while Gathering
+Config.FreezeWhileGather = true -- Freeze player while he's gathering
+Config.SetJob = true -- Set job after Start working
+Config.JobName = "farmer" -- Job name to set
 
 Config.StartWorking = "Press DEL to start working as Farmer!" -- Start Working Message
 Config.StartGather = "Press DEL to start gathering!" -- Start Gathering Message
