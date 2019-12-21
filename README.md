@@ -1,5 +1,5 @@
 # redemrp_farmerjob
-A simple Farmer Job for RedEM:RP
+A Simple Farmer Job with a lot of config options for RedEM:RP Framework
 
 ## 1. Description
 It's a simple Farmer Job for RedEM:RP Framework, there is a lot of config options,
@@ -49,3 +49,6 @@ Config.Point2 = {x=1082.53,y=-1750.89,z=49.4} -- Point 2 location
 Config.Point3 = {x=1063.93,y=-1774.09,z=47.88} -- Point 3 location
 Config.Point4 = {x=1083.6,y=-1805.67,z=48.62} -- Point 4 location
 ```
+
+## 4. Credits
+https://github.com/amakuu/
